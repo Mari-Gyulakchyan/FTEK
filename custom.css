@@ -1,0 +1,43 @@
+
+:root {
+
+    --bs-primary: #5f7adb;
+}
+
+
+.btn-outline-primary {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.btn-outline-primary:hover,
+.btn-outline-primary:focus {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.btn-outline-primary.active {
+    background-color: var(--bs-primary);
+    color: #fff;
+}
+
+.step-title,
+.card-title,
+.faq-item h3 {
+    color: var(--bs-primary);
+    border-bottom: 2px solid var(--bs-primary);
+    padding-bottom: 0.5rem;
+}
+
+
+.icon-list li i {
+    color: var(--bs-primary);
+    width: 25px;
+}
+
+.faq-item p,
+.step-description .card p {
+
+    font-size: 0.9rem;
+}
+
+
+
