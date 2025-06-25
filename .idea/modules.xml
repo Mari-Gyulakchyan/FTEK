@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/FTEK.iml" filepath="$PROJECT_DIR$/.idea/FTEK.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/evara-ecommerce-main.iml" filepath="$PROJECT_DIR$/.idea/evara-ecommerce-main.iml" />
+>>>>>>> 500eda6 (Initial commit)
     </modules>
   </component>
 </project>
